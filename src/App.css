@@ -1,0 +1,29 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.container{
+background-color: aqua;
+width: 100%;
+border-radius: 0.30rem;
+color:black;
+
+      box-shadow: 10px 10px 5px rgba(194, 22, 22, 0.5);
+      margin: 40px;
+} 
+.header{
+  color:red;
+  font-variant:normal;
+  font-style: italic;
+  font-weight: 500;
+  
+}
+.box{
+  background-color:rgb(218, 233, 16);
+  margin-top: 10px;
+  color:rgb(48, 21, 138);
+  font-style: oblique;
+}
